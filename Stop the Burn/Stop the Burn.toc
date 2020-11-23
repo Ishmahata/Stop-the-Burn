@@ -1,3 +1,6 @@
-## Interface: 90000
+## Interface: 90002
 ## Title: Stop the Burn
+## Notes: Blocks messages in trade/general from a certain EU server
+## Author: The guild "Jim Beam Tribute Team" on Al'Akir - EU
+## Version: 1.0.0
 core.lua
